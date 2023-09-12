@@ -1,2 +1,2 @@
 # project-amazing
-something
+something interesting
